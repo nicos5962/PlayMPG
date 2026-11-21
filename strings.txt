@@ -1,0 +1,10 @@
+# String file for PlayMPG plugin
+
+PLUGIN_PLAYMPG
+	EN	Play MPG
+
+PLUGIN_PLAYMPG_DESC
+	EN	Play the audio of MPEG program stream files, with tags read by ffprobe like PlayAVI, the Discogs release id as album id and scanner-safe registration
+
+MPG
+	EN	MPEG program stream (.mpg, .mpeg, .mpe, .vob, .m2p)
